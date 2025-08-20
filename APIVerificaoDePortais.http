@@ -1,0 +1,6 @@
+@APIVerificaoDePortais_HostAddress = http://localhost:5108
+
+GET {{APIVerificaoDePortais_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
